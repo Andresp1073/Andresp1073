@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a graduarme, apasionado por el desarrollo de páginas y aplicaciones web. Me interesa tanto el backend como el frontend, con experiencia en bases de datos relacionales y no relacionales. Aspiro a crecer como **Systems Engineer** construyendo soluciones robustas, escalables y bien diseñadas. Actualmente expandiendo mis conocimientos en Node.js, React y Docker. 🇨🇴
+Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a graduarme, apasionado por el desarrollo de páginas y aplicaciones web. Me interesa tanto el backend como el frontend, con experiencia en bases de datos relacionales y no relacionales. Aspiro a crecer como **Systems Engineer** construyendo soluciones robustas, escalables y bien diseñadas.
 
 ---
 
