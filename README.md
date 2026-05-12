@@ -1,5 +1,7 @@
 <!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Andres%20Mauricio%20Pe%C3%B1a&fontSize=80&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20in%20Progress%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Andres%20Mauricio%20Pe%C3%B1a%20Guasca&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20in%20Progress%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
+</p>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -10,22 +12,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-```typescript
-const andres = {
-  pronouns: "Él / He",
-  location: "Colombia 🇨🇴",
-  education: "Ingeniería de Sistemas (próximo a graduarse)",
-  code: ["Java", "Python", "TypeScript", "SQL"],
-  technologies: {
-    backend:    ["FastAPI", ".NET", "Blazor", "Node.js + Express"],
-    databases:  ["MySQL", "MongoDB"],
-    tools:      ["Git", "GitHub", "Bitbucket", "Postman", "Jira", "Trello"],
-    learning:   ["React", "Docker"],
-  },
-  currentFocus: "Desarrollo web y backend robusto",
-  goal:         "Convertirme en Software Engineer full-time 🎯",
-};
-```
+Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a graduarme, apasionado por el desarrollo de páginas y aplicaciones web. Me interesa tanto el backend como el frontend, con experiencia en bases de datos relacionales y no relacionales. Aspiro a crecer como **Systems Engineer** construyendo soluciones robustas, escalables y bien diseñadas. Actualmente expandiendo mis conocimientos en Node.js, React y Docker. 🇨🇴
 
 ---
 
@@ -52,7 +39,7 @@ const andres = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**Herramientas & DevOps**
+**Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -60,7 +47,6 @@ const andres = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
@@ -70,19 +56,6 @@ const andres = {
   <img src="https://img.shields.io/badge/Node.js_+_Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Andresp1073&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andresp1073&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andresp1073&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -100,4 +73,6 @@ const andres = {
 <p align="center"><em>"El código es poesía que las máquinas entienden."</em><br/>⭐️ Desde Colombia para el mundo 🇨🇴</p>
 
 <!-- Footer -->
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer" />
+</p>
