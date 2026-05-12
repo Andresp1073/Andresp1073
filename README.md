@@ -70,7 +70,6 @@ Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a gradua
 
 ---
 
-<p align="center"><em>"El código es poesía que las máquinas entienden."</em><br/>⭐️ Desde Colombia para el mundo 🇨🇴</p>
 
 <!-- Footer -->
 <p align="center">
