@@ -48,17 +48,6 @@ Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a gradua
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
----
-
-### 🌱 Actualmente aprendiendo
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js_+_Express-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
----
 
 ### 📫 Contacto
 
