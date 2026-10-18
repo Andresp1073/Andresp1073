@@ -1,11 +1,11 @@
 <!-- Header animado -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Andres%20Mauricio%20Pe%C3%B1a%20Guasca&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20in%20Progress%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Andres%20Mauricio%20Pe%C3%B1a%20Guasca&fontSize=60&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20%de%20Sistemas%20%F0%9F%9A%80&descAlignY=60&descSize=20" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Apasionado+por+el+desarrollo+web;Próximo+Ingeniero+de+Sistemas;Always+learning%2C+always+building+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Apasionado+por+el+desarrollo+web;Always+learning%2C+always+building+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
 
 ---
