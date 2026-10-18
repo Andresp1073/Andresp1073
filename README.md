@@ -12,7 +12,7 @@
 
 ### 🧑‍💻 Sobre mí
 
-Soy Andres Mauricio, estudiante de **Ingeniería de Sistemas** próximo a graduarme, apasionado por el desarrollo de páginas y aplicaciones web. Me interesa tanto el backend como el frontend, con experiencia en bases de datos relacionales y no relacionales. Aspiro a crecer como **Systems Engineer** construyendo soluciones robustas, escalables y bien diseñadas.
+Soy Andres Mauricio Peña, Ingeniero de Sistemas y desarrollador full-stack, con experiencia en análisis de requerimientos, modelado de bases de datos y desarrollo de aplicaciones web completas (gestión académica, gestión ganadera y e-commerce) con TypeScript, React/Next.js, Node.js y .NET. He trabajado de forma individual, llevando un proyecto de extremo a extremo, y en equipo bajo Scrum y XP. Busco una posición como desarrollador de software junior (full-stack o backend) donde pueda aplicar mis conocimientos en desarrollo full-stack, APIs, bases de datos y testing, mientras continúo fortaleciendo mis habilidades profesionales. 
 
 ---
 
