@@ -12,7 +12,10 @@
 
 ### 🧑‍💻 Sobre mí
 
+<p align="justify">
 Soy Andres Mauricio Peña, Ingeniero de Sistemas y desarrollador full-stack con experiencia en análisis de requerimientos, modelado de bases de datos y desarrollo de aplicaciones web para gestión académica, gestión ganadera y comercio electrónico con TypeScript, JavaScript, React, Next.js, Node.js y .NET. He participado en proyectos colaborativos bajo metodologías ágiles y desarrollado una aplicación de comercio electrónico de forma individual, desde la base de datos hasta el frontend y el backend. Cuento con experiencia en validación de funcionalidades, pruebas de software y documentación de requerimientos. Busco una oportunidad como desarrollador full-stack junior con énfasis en aplicaciones web y backend.
+</p>
+
 ---
 
 ### 🚀 Tech Stack
@@ -47,6 +50,7 @@ Soy Andres Mauricio Peña, Ingeniero de Sistemas y desarrollador full-stack con 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
+---
 
 ### 📫 Contacto
 
@@ -57,7 +61,6 @@ Soy Andres Mauricio Peña, Ingeniero de Sistemas y desarrollador full-stack con 
 </p>
 
 ---
-
 
 <!-- Footer -->
 <p align="center">
